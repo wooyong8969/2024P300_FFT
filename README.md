@@ -19,6 +19,9 @@ MATLAB을 이용하여 실제 EEG 데이터를 전처리, 분석, 특징 추출 
   - 각 문자의 깜빡임에 따른 뇌파 반응이 기록된 데이터
 
 ## 탐구 과정
+![뇌파 측정](https://github.com/user-attachments/assets/5f9306a6-c1e6-4aa9-8755-2d4fae95870b)
+
+
 
 ### 1. 데이터 전처리
 
